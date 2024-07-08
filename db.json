@@ -1,0 +1,14 @@
+{
+  "cards": [
+    {
+      "id": "1",
+      "nama": "John Doe",
+      "nim": "123456"
+    },
+    {
+      "id": "2",
+      "nama": "Jane Smith",
+      "nim": "654321"
+    }
+  ]
+}
